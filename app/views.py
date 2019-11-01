@@ -11,10 +11,10 @@ from django.views.decorators.csrf import csrf_exempt
 # 连接数据库
 def connectToMySQL():
     connect = pymysql.Connect(
-        host='180.76.165.21',
+        host='',
         port=3306,
-        user='rdsroot',
-        passwd='aae895_aae1195',
+        user='',
+        passwd='',
         db='mydb',
         charset='utf8'
     )
