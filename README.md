@@ -1,4 +1,2 @@
-# DBexp_backend
-公交管理系统（后端）
+# 公交管理系统后端（基于Django）
 
-基于Django
